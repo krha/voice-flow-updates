@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VoiceFlow</title>
+        <item>
+            <title>1.0.7</title>
+            <pubDate>Sat, 21 Mar 2026 02:34:46 +0000</pubDate>
+            <link>https://github.com/krha/voice-flow/releases/tag/v1.0.7</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/krha/voice-flow-updates/main/downloads/VoiceFlow-1.0.7.dmg" length="3286520" type="application/octet-stream" sparkle:edSignature="zSC/6Smdl9iiRi9+V8zfLwQAYPl3LaqvxUuyK0UiOinLkUtvlLY8REu+fouaPRojyKShzqwuisV0pTe2QqQzDg=="/>
+        </item>
+    </channel>
+</rss>
