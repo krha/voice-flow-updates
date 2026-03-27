@@ -4,12 +4,12 @@
         <title>VoiceFlow</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>Fri, 27 Mar 2026 03:29:34 +0000</pubDate>
+            <pubDate>Fri, 27 Mar 2026 03:34:32 +0000</pubDate>
             <link>https://github.com/krha/voice-flow/releases/tag/v1.1.0</link>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/krha/voice-flow-updates/main/downloads/VoiceFlow-1.1.0.dmg" length="3529020" type="application/octet-stream" sparkle:edSignature="sVUhrRgUFQCLfHvghPujn7BMGFaMYVgPNNCzIMS5frqJJnIdCP+Ep2AxbgA7K/CtEW9CYscFEVJ4+YF1orgmCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/krha/voice-flow-updates/main/downloads/VoiceFlow-1.1.0.dmg" length="3529025" type="application/octet-stream" sparkle:edSignature="4wompV9W4mZvw4nQXO1Boi4iOhPSNjt6g3FiXMIHBQ5wFUaIfovRgOwz+kS1q8D35n0UXRKN00WRjCxVz2mjAw=="/>
         </item>
     </channel>
 </rss>
