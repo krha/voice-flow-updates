@@ -3,13 +3,13 @@
     <channel>
         <title>VoiceFlow</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Fri, 27 Mar 2026 03:34:32 +0000</pubDate>
-            <link>https://github.com/krha/voice-flow/releases/tag/v1.1.0</link>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Fri, 27 Mar 2026 04:04:41 +0000</pubDate>
+            <link>https://github.com/krha/voice-flow/releases/tag/v1.1.1</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/krha/voice-flow-updates/main/downloads/VoiceFlow-1.1.0.dmg" length="3529025" type="application/octet-stream" sparkle:edSignature="4wompV9W4mZvw4nQXO1Boi4iOhPSNjt6g3FiXMIHBQ5wFUaIfovRgOwz+kS1q8D35n0UXRKN00WRjCxVz2mjAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/krha/voice-flow-updates/main/downloads/VoiceFlow-1.1.1.dmg" length="3528997" type="application/octet-stream" sparkle:edSignature="wgaQKzv8pX8tJWSx23VLXmMS2MaKJDmHLrdGJ48wlQJ9ZbYnYUfrO7jaKLYPy6n3rof9cB2XpnpTCS4JJloWBw=="/>
         </item>
     </channel>
 </rss>
